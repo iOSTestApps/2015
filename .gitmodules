@@ -34,9 +34,6 @@
 [submodule "DZNPhotoPickerController"]
 	path = DZNPhotoPickerController
 	url = https://github.com/twobitlabs/DZNPhotoPickerController.git
-[submodule "SDWebImage"]
-	path = SDWebImage
-	url = https://github.com/twobitlabs/SDWebImage.git
 [submodule "GROAuth2SessionManager"]
 	path = GROAuth2SessionManager
 	url = https://github.com/twobitlabs/GROAuth2SessionManager.git
